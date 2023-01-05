@@ -1,6 +1,6 @@
-# QLKCL Project (Backend)
+# This archive has been archived. I moved it to the new repo here https://github.com/QLKCL/QLKCL_Backend
 
-QLKCL Backend
+## QLKCL Backend
 
 
 ## Version info
